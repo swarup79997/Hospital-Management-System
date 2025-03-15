@@ -1,0 +1,4 @@
+Blood Test,500.0
+X-Ray,700.0
+MRI Scan,1500.0
+CT Scan,1200.0

@@ -1,0 +1,5 @@
+Alice Smith,30,Diabetes,1000.0
+Bob Brown,45,Hypertension,1000.0
+Charlie Green,25,Asthma,1000.0
+harsha,23,stomach,1000.0
+suresh,19,stomach,1000.0
